@@ -1,0 +1,1 @@
+- [Replit console Run setup](replit-console-run.md) — use the direct `.replit` run command for short-lived console programs instead of a temporary workflow.
